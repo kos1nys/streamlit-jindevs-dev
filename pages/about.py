@@ -13,9 +13,6 @@ with dataTab:
 with memeTab:
     st.write("ГыГы")
 
-catTab = st.tabs(["Котики"])
-
-with catTab:
-    st.write("Котики")
+st.success('This is a success message!', icon="✅")
 
 st.badge("В разработке", icon=":material/code:", color="gray")
