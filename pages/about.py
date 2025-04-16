@@ -1,3 +1,4 @@
 import streamlit as st
 
-st.write("Домик!")
+st.badge("New")
+st.badge("Success", icon=":material/check:", color="green")
