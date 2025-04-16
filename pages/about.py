@@ -1,4 +1,3 @@
 import streamlit as st
 
-st.badge("New")
-st.badge("Success", icon=":material/check:", color="green")
+st.badge("В разработке", icon=":material/code:", color="gray")
