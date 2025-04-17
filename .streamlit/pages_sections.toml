@@ -4,6 +4,16 @@ name = "О нас"
 icon = "📎"
 
 [[pages]]
+name = "Новости"
+icon = "📰"
+is_section = true
+
+[[pages]]
+path = "pages/news/StartServer.py"
+name = "Старт сервера"
+icon = "🚀"
+
+[[pages]]
 name = "Прошлые проекты"
 icon = "📚"
 is_section = true
